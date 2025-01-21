@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../assets/styles/Certification.css'
+import '../styles/Certification.css'
 
 const Certification = () => {
     return (
