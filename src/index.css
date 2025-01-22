@@ -6,6 +6,9 @@ html, body, #root {
 }
 
 #root {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
   min-height: 900px;
   max-width: 2000px;
   height: 100%;
