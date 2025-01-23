@@ -7,6 +7,7 @@ import Header from './assets/components/Header'
 import Navbar from './assets/components/Navbar'
 import Projects from './assets/components/Projects'
 import './App.css'
+import '../src/assets/styles/Fonts.css'
 
 
 function App() {
