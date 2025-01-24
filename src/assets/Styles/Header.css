@@ -24,13 +24,13 @@
     
 }
 
-
+.header-container h1{
+    margin-bottom: 0px;
+}
 
 .header-container h2{
     color:#72ab49;
+    margin-top: 0px;
 
 }
 
-.logos .download img{
-    padding: 1px;
-}
