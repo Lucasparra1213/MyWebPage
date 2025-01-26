@@ -7,10 +7,10 @@ const Navbar = () => {
     <div className='navigation'>
 
       <div className='elements'>
-        <p><Link to="/">ABOUT</Link></p>
-        <p><Link to="/Certification">CERTIFICATIONS</Link></p>
-        <p><Link to="/Education">EDUCATION</Link></p>
-        <p><Link to="/Projects">PROJECTS</Link></p>
+        <a><Link to="/">ABOUT</Link></a>
+        <a><Link to="/Certification">CERTIFICATIONS</Link></a>
+        <a><Link to="/Education">EDUCATION</Link></a>
+        <a><Link to="/Projects">PROJECTS</Link></a>
       </div>
     </div>
   )

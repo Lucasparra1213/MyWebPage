@@ -4,7 +4,7 @@ import '../styles/Projects.css'
 const Projects = () => {
     return (
     <div className='projects-container'>
-        <h1>Projects</h1>
+        <h1>PROJECTS</h1>
         <p>Here is a brief overview of the projects I have worked on, ranging from small personal projects to full-stack MERN applications, as well as collaborative projects. 
             My primary focus has been front-end development, where I designed and implemented user interfaces and integrated them with a back-end developed either by myself or other team member.
         </p>

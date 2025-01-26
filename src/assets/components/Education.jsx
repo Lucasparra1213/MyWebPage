@@ -4,7 +4,7 @@ import '../styles/Education.css'
 const Education = () => {
     return (
     <div className='edu-container'>
-        <h1>Education</h1>
+        <h1>EDUCATION</h1>
         <p>I have always been passionate about technology, which led me to pursue a Bachelor's degree in Management Information Systems—a perfect blend of management and technology. 
             During my studies, I discovered my strong interest in coding, particularly the visual aspects of it. 
             This realization, along with a recommendation from a friend who shared his bootcamp experience, inspired me to enroll in one myself. 

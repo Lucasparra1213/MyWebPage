@@ -2,8 +2,8 @@ h1{
   font-family: "Poppins", serif;
   font-weight: 300;
   font-style: normal;
-  font-size: 30px;
-  color: white;
+  font-size: 40px;
+  color: #e5e6e5;
   margin-top: 10px;
 }
 
@@ -21,7 +21,7 @@ p {
   font-family: "Poppins", serif;
   font-weight: 300;
   font-style: normal;
-  color: white;
+  color: #e5e6e5;
 }
 
 strong{
