@@ -33,13 +33,16 @@
     padding: 8px;
     
 }
-@media (max-width: 480px) {
+@media (max-width: 380px) {
     .elements {
-        font-size: 14px;  /* Reduce font size */
+        font-size: 12px;
+        padding-top: 4px;
+        padding-bottom: 4px;
     
     }
 
     .navigation a {
-        padding: 6px; /* Reduce padding to save space */
+        padding: 3px;
+    
     }
 }
