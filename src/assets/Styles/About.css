@@ -29,3 +29,8 @@
 .javaScript, .react, .css, .html, .mongoDB, .node{
     padding: 10px;
 }
+
+.node img{
+    width: 96px;
+    height: 96px;
+}
